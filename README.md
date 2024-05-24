@@ -1,6 +1,6 @@
 # Lab8-Starter
 
-Name: Kris Chen
+Name: **Kris Chen**
 
 Page link: https://kriiiiss.github.io/CSE110_Lab8/
 
